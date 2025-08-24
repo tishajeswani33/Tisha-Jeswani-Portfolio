@@ -32,7 +32,7 @@ const contactInfo = [
 
 const socialLinks = [
   { icon: Github, href: "https://github.com/tishajeswani33", label: "GitHub", username: "@tishajeswani33" }, // Added real GitHub URL
-  { icon: Linkedin, href: "www.linkedin.com/in/tisha-jeswani", label: "LinkedIn", username: "tisha-jeswani" }, // Added real LinkedIn URL
+  { icon: Linkedin, href: "https://www.linkedin.com/in/tisha-jeswani", label: "LinkedIn", username: "tisha-jeswani" }, // Added real LinkedIn URL
   
 ]
 
